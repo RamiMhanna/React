@@ -2,7 +2,7 @@ import React , { Component } from 'react'
 
 class Message extends Component {
     constructor(){
-        super()
+        super();
         this.state = {
         message: "Welcome Visior"}
     }
